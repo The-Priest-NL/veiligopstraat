@@ -7,3 +7,5 @@ Het bundelen van de volgende zaken t.b.v. een "burger initiatief" dat is gestart
 * foto's, filmpjes (voortdurend in ontwikkeling)
 * Links naar media (Omroepen, Kranten, Youtube, etc.)
 * etc.
+
+Met dank aan de initiatiefnemers René en Nico, zonder hun geweldige idee zou dit niet mogelijk zijn!
