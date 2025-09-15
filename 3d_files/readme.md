@@ -1,3 +1,10 @@
+## Bestanden
+
+# SOS_Braille_Version_1.0.stl 
+- Ontwerp met als licentie [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
+- Vrij voor aanpassen (remix, transform and build upon), mits attributie wordt gedaan naar dit ontwerp.
+- Mag niet commercieel gebruikt worden
+
 ## Print instellingen [Orcaslicer](https://www.orcaslicer.com/)
 
 # Kwaliteit (Quality)
@@ -20,4 +27,3 @@
 # Anders (Others)
 - Skirt: 0
 - Brim: No-brim
-
