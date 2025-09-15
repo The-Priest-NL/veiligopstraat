@@ -1,5 +1,5 @@
 # veiligopstraat
-Het bundelen van de volgende zaken t.b.v. een "burger initiatief" dat is gestart als steun van de "WIj eisen de nacht" beweging.
+Het bundelen van de volgende zaken t.b.v. een "burger initiatief" dat is gestart als steun van de "Wij eisen de nacht" beweging.
 
 * Flyer (w.i.p)
 * A5/A4 "poster" met uitleg (w.i.p)
